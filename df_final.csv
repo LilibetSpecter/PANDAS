@@ -1,0 +1,6 @@
+,dept,job,sales,skills_ 'DL',skills_ 'Django'],skills_ 'NLP'],skills_ SQL,skills_ Tableau,skills_Python,skills_['ML',skills_['React',skills_[]
+0,HR,manager,180000.0,0,0,0,0,0,0,0,0,1
+1,IT,data analyst,150000.0,0,0,0,1,1,1,0,0,0
+2,HR,recruiter,120000.0,0,0,0,0,0,0,0,0,1
+3,IT,data scientist,170000.0,1,0,1,0,0,0,1,0,0
+4,IT,frontend developer,120000.0,0,1,0,0,0,0,0,1,0
